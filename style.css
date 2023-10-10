@@ -1,0 +1,16 @@
+body {
+    background-color: teal;
+}
+
+h1 {
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 1px 0 #ff6d8d;
+    color: #696969;
+  }
+  h2 {
+    margin: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: rgb(255, 193, 101);
+    color: #3ed762;
+  }
